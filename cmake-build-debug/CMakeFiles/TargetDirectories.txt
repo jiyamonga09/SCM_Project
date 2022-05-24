@@ -1,0 +1,3 @@
+C:/Users/Tushar/Desktop/SCM_Project/cmake-build-debug/CMakeFiles/SCM_Project.dir
+C:/Users/Tushar/Desktop/SCM_Project/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Tushar/Desktop/SCM_Project/cmake-build-debug/CMakeFiles/rebuild_cache.dir
